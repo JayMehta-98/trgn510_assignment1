@@ -1,0 +1,110 @@
+    1  who
+    2  hostname
+    3  pwd
+    4  ls
+    5  who
+    6  net user username newpassword /domain
+    7  net jayhiman-F22@trgn.usc.edu Jay123/domain
+    8  net jayhiman-F22@trgn.usc.edu Jay123/usc
+    9  net jayhiman-F22 Jay123/usc.edu
+   10  net jayhiman-F22 Jay123/@usc.edu
+   11  command:passwd
+   12  passwd
+   13  pwd
+   14  cd ..
+   15  pdw
+   16  pwd
+   17  mkdir bin
+   18  ls
+   19  cd jayhiman-F22/
+   20  mkdir bin
+   21  ls
+   22  mkdir scripts
+   23  mkdir projects
+   24  ls
+   25  exit
+   26  ls
+   27  mkdir assignments
+   28  cd assignments/
+   29  git clone https://github.com/JayMehta-98/trgn510_assignment1.git
+   30  ls
+   31  cd trgn510_assignment1/
+   32  ls
+   33  git add . -A
+   34  git commit -m "First commit"
+   35  mehtajay98@gmail.com
+   36  git config --global mehtajay98@gmail.com
+   37  git config --global JayMehta-98
+   38  git config --global user.email mehtajay98@gmail.com
+   39  git config --global user.name JayMehta-98
+   40  git push
+   41  vim Readme.md
+   42  ls
+   43  git add . -A
+   44  git commit -m "First commit"
+   45  git push
+   46  ls
+   47  cd..
+   48  cd ..
+   49  ls
+   50  cd !
+   51  cd ~
+   52  pwd
+   53  ls
+   54  cd assignments/
+   55  pwd
+   56  ls
+   57  cd trgn510_assignment1/
+   58  mkdir problem1
+   59  history
+   60  pwd
+   61  cd hist
+   62  cd problem1/
+   63  pwd
+   64  ls
+   65  cd ..
+   66  pwd
+   67  mkdir jay
+   68  cd ass
+   69  pwd
+   70  ls
+   71  cd jayhiman-F22/
+   72  ls
+   73  cd assignments/
+   74  ls
+   75  cd trgn510_assignment1/
+   76  ls
+   77  cd Readme.md 
+   78  vin Readme.md 
+   79  vim Readme.md 
+   80  vim README.md 
+   81  ls
+   82  cd assignments/
+   83  ls
+   84  cd trgn510_assignment1/
+   85  ls
+   86  cd problem1/
+   87  ls
+   88  cd ~
+   89  pwd
+   90  less problem1
+   91  less assignments/
+   92  pwd
+   93  mkdir example class
+   94  cd example/
+   95  wget http://ftp.ensembl.org/pub/release-75/gtf/homo_sapiens/Homo_sapiens.GRCh37.75.gtf.gz
+   96  ls -l
+   97  gunzip Homo_sapiens.GRCh37.75.gtf.gz
+   98  ls -l
+   99  vi Homo_sapiens.GRCh37.75.gtf 
+  100  ls assignments/
+  101  cd trgn
+  102  pwd
+  103  ls
+  104  cd assignments/
+  105  ls
+  106  cd trgn510_assignment1/
+  107  ls
+  108  cd problem1/
+  109  ls
+  110  history>myhistory.problem1.txt

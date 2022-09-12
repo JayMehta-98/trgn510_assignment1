@@ -1,0 +1,6 @@
+# My processes
+root      93042   2370  0 02:01 ?        00:00:00 sshd: jayhiman-F22 [priv]
+jayhima+  93052  93042  0 02:01 ?        00:00:00 sshd: jayhiman-F22@pts/2
+root      93809   2370  0 02:24 ?        00:00:00 sshd: jayhiman-F22 [priv]
+jayhima+  93817  93809  0 02:24 ?        00:00:00 sshd: jayhiman-F22@pts/4
+jayhima+  93941  93818  0 02:27 pts/4    00:00:00 grep --color=auto jayhiman-F22
